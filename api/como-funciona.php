@@ -9,12 +9,12 @@
 <body class="bg-gray-50 min-h-screen flex flex-col items-center justify-start p-6">
 
   <nav class="w-full max-w-4xl bg-white rounded-xl shadow-md p-5 mt-8 mb-10 flex justify-center space-x-6 text-lg font-semibold">
-    <a href="api/index.php" class="transition-colors duration-300 px-5 py-2 rounded-md
-      <?= basename($_SERVER['PHP_SELF']) === 'api/index.php' ? 'text-blue-600 hover:text-blue-800' : 'text-gray-700 hover:text-blue-600' ?>">
+    <a href="index.php" class="transition-colors duration-300 px-5 py-2 rounded-md
+      <?= basename($_SERVER['PHP_SELF']) === 'index.php' ? 'text-blue-600 hover:text-blue-800' : 'text-gray-700 hover:text-blue-600' ?>">
       Simulador
     </a>
-    <a href="api/como-funciona.php" class="transition-colors duration-300 px-5 py-2 rounded-md
-      <?= basename($_SERVER['PHP_SELF']) === 'api/como-funciona.php' ? 'bg-blue-600 text-white shadow-lg' : 'text-gray-700 hover:text-blue-600' ?>">
+    <a href="como-funciona.php" class="transition-colors duration-300 px-5 py-2 rounded-md
+      <?= basename($_SERVER['PHP_SELF']) === 'como-funciona.php' ? 'bg-blue-600 text-white shadow-lg' : 'text-gray-700 hover:text-blue-600' ?>">
       Como funciona
     </a>
   </nav>
