@@ -36,7 +36,7 @@
       <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 shadow-sm">
         <h2 class="text-2xl font-semibold text-blue-700 mb-4">Base do cálculo</h2>
          <p class="mb-4">
-        O cálculo apresentado neste simulado é baseado na fórmula divulgada no 
+        O cálculo apresentado neste simulador é baseado na fórmula divulgada no 
         <a href="https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=948175&cvm=true" 
            target="_blank" class="text-blue-600 underline font-medium">relatório gerencial oficial do IRDM11</a> e leva em consideração:
         </p>
