@@ -158,7 +158,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <div class="mt-14 text-center max-w-sm mx-auto">
       <h2 class="text-3xl font-bold mb-6 text-blue-600">Me compre um café ☕</h2>
       <p class="mb-8 text-gray-700 text-lg leading-relaxed">
-        Se gostou do projeto, uma contribuição simbólica de <strong>R$0,99</strong> via Pix ajuda muito a manter e melhorar o desenvolvimento.
+        Se gostou do projeto, uma contribuição simbólica de <strong>R$0,99</strong> via Pix ajuda muito a manter e melhorar o desenvolvimento de projetos como este.
       </p>
 
       <a href="https://nubank.com.br/cobrar/26deo/6881655b-0c1a-45bf-bb1a-3ca0e53e8f84" target="_blank" 
