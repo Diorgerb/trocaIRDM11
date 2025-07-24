@@ -38,7 +38,7 @@
          <p class="mb-4">
         O cálculo apresentado neste simulado é baseado na fórmula divulgada no 
         <a href="https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=948175&cvm=true" 
-           target="_blank" class="text-blue-600 underline font-medium">relatório gerencial oficial do IRDM11</a>.
+           target="_blank" class="text-blue-600 underline font-medium">relatório gerencial oficial do IRDM11</a> e leva em consideração:
         </p>
         <ul class="list-disc list-inside space-y-2 text-lg text-gray-700">
           <li>A quantidade atual de cotas IRDM11 que o cotista possui.</li>
