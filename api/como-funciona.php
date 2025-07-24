@@ -35,8 +35,10 @@
 
       <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 shadow-sm">
         <h2 class="text-2xl font-semibold text-blue-700 mb-4">Base do cálculo</h2>
-        <p class="mb-4 text-lg text-gray-700">
-          O cálculo realizado neste simulador segue rigorosamente os parâmetros descritos no relatório gerencial oficial da operação (disponibilizado em anexo). Dessa forma, o resultado representa a relação de troca considerando:
+         <p class="mb-4">
+        O cálculo apresentado neste simulado é baseado na fórmula divulgada no 
+        <a href="https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=948175&cvm=true" 
+           target="_blank" class="text-blue-600 underline font-medium">relatório gerencial oficial do IRDM11</a>.
         </p>
         <ul class="list-disc list-inside space-y-2 text-lg text-gray-700">
           <li>A quantidade atual de cotas IRDM11 que o cotista possui.</li>
